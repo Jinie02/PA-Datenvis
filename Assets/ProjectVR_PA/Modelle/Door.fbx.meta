@@ -11,7 +11,7 @@ ModelImporter:
     second: DoorsOpen
   - first:
       74: -1498010087492872569
-    second: CINEMA_4D_Main
+    second: CINEMA_Anim
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -51,7 +51,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: CINEMA_4D_Main
+      name: CINEMA_Anim
       takeName: CINEMA_4D_Main
       internalID: 0
       firstFrame: 0
